@@ -1,4 +1,2 @@
 pandas
-bokeh.io
-bokeh.plotting
-bokeh.embed
+bokeh
